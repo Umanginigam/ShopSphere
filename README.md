@@ -12,13 +12,8 @@ The application features intuitive client-side navigation, secure authentication
 ##
 ![Screenshot (82)](https://user-images.githubusercontent.com/87040096/219966155-35a608b3-0c48-447b-b86d-2f8c21e153cc.png)
 
-##
-![Screenshot (89)](https://user-images.githubusercontent.com/87040096/219966164-ec2ee88d-fce1-4004-a8bd-fb655523b8db.png)
 
-##
-![Screenshot (90)](https://user-images.githubusercontent.com/87040096/219966172-ca106a05-4eee-4a73-813a-90b7ac8de21c.png)
-
-### :space_invader: Tech Stack
+###  Tech Stack
 
 <details>
   <summary>Client</summary>
@@ -55,16 +50,8 @@ The application features intuitive client-side navigation, secure authentication
 
 # 🏃‍♀️ Running
 
--   Clone repo Run `git clone https://github.com/pawanpk87/myShop-Ecommerce-website.git`
 -   Run `npm i`
 -   Run `npm run dev`
 -   See `http://localhost:3000`
 
 
-<!-- CONTACT -->
-## Contact
-
-Pawan Kumar Mehta - arowpk@gmail.com
-
-Project Link: [https://github.com/pawanpk87/myShop-Ecommerce-website](https://github.com/pawanpk87/myShop-Ecommerce-website)
-# ShopSphere
