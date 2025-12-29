@@ -85,7 +85,7 @@ export default function Home({ featuredProducts, products }) {
 }
 
 export async function getServerSideProps() {
-  // await db.connect();
+  await db.connect();
   const products = await Product.find().lean();
   const featuredProducts = products.filter(
     (product) => product.isFeatured === true
